@@ -1,0 +1,11 @@
+
+{
+    "name":"KIM",
+    "addr":"부산",
+    "foods":["물고기","곱창"],
+    "isMan":false,
+    "body":{
+        "weight":50,
+        "height":161
+    }
+}
