@@ -6,5 +6,5 @@ if __name__ == "__main__":
     a: TestClass = TestClass()
     print("종료됨")
 
-if __name__ = "__main__":
+if __name__ == "__main__":
   pass
